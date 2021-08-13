@@ -1,2 +1,3 @@
 ## Atcoder
-## Atcoderディレクトリです。
+今までtypescript
+現在c++勉強中...
